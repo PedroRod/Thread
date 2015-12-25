@@ -15,6 +15,7 @@ This library contains a set (8) of seasy to understand googletests that serve as
 Contributing
 ------------
 I will be more than happy to see people contribute to this small lib, If you wish to contribute please do so with clean code and clean/meaningful tests.
+
 As a side note, If you see any code smells in this library, please let me know so I can refactor.
 
 I try to write as clean and beautiful code as possible.
