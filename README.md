@@ -11,6 +11,7 @@ This library does not allow you to forcefully stop a thread since that is never 
 Tests
 ------------
 This library contains a set (8) of seasy to understand googletests that serve as documentation.
+Tests are in Main.cpp
 
 Contributing
 ------------
